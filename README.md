@@ -9,6 +9,7 @@
 * [Max Of Min Altitudes](https://github.com/ichbinhandsome/Amazon-Intern-Questions/blob/main/Max%20Of%20Min%20Altitudes.py)
 * [Maximal Square](https://github.com/ichbinhandsome/Amazon-Intern-Questions/blob/main/Maximal%20Square.py)
 * [Merge two sorted Lists](https://github.com/ichbinhandsome/Amazon-Intern-Questions/blob/main/Merge%20two%20sorted%20Lists.py)
+* [Most Common Word](https://github.com/ichbinhandsome/Amazon-Intern-Questions/blob/main/Most%20Common%20Word.py)
 * [Search in a row wise and column wise sorted matrix](https://github.com/ichbinhandsome/Amazon-Intern-Questions/blob/main/Search%20in%20a%20row%20wise%20and%20column%20wise%20sorted%20matrix.py)
 * [Substrings of size K with K distinct chars](https://github.com/ichbinhandsome/Amazon-Intern-Questions/blob/main/Substrings%20of%20size%20K%20with%20K%20distinct%20chars.py)
 * [Substrings with exactly K distinct chars](https://github.com/ichbinhandsome/Amazon-Intern-Questions/blob/main/Substrings%20with%20exactly%20K%20distinct%20chars.py)
